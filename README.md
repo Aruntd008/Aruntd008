@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun Prasad</h1>
-<h3 align="center">A AI/ML Student from India</h3>
+<h3 align="center">An AI/ML Student from India</h3>
 
 
 # 💻 Tech Stack:
