@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun Prasad</h1>
 <h3 align="center">An AI/ML Student </h3>
 
-![snake gif](https://github.com/Aruntd008/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Aruntd008/Aruntd008/blob/output/github-snake-dark.svg)
 
 
 
